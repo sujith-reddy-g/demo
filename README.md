@@ -1,3 +1,4 @@
 # demo
 this is my first repository<br>
-Author-Sujith Reddy Ganta
+Author-Sujith Reddy Ganta<br>
+**"learn every day"**
